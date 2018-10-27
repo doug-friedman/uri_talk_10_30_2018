@@ -24,7 +24,7 @@ options(htmltools.dir.version = FALSE)
 ---
 # What this talk *is* about
 
-1. Talk about common ethical issues you'll likely encounter in
+1. Talk about common ethical issues you'll likely encounter in data science
 
 --
 
@@ -130,7 +130,7 @@ Ethical issues are complicated and a different perspective often shines a light 
 --
 
 .pull-left[
-The issues you'll be asked to tackle with CS/DS aren't new ones. Spend some time learning about the field you are jumping into and where people went wrong beforehand.
+The issues you'll be asked to tackle with data science aren't new ones. Spend some time learning about the field you are jumping into and where people went wrong beforehand.
 
 A little research can go a long way to avoiding a serious issue later on.
 ]
