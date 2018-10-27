@@ -97,7 +97,7 @@ You and/or your users **didn't think** about the potential ethical issues first.
 ---
 # Diving Deeper into Ethical Issues
 
-![goog_bias_list](imgs/ml_fairness_bias_list.png)
+![goog_bias_list](imgs/ml_fairness_bias_list.jpg)
 
 Google [has a fantastic online course](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture) that teaches you  about a wide variety of human biases and how to recognize them in a machine learning context.
 
