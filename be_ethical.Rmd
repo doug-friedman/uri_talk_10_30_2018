@@ -1,0 +1,54 @@
+---
+title: "be_ethical()"
+subtitle: "Some practical advice for recognizing and handling ethical issues in CS/DS"
+author: "Doug Friedman"
+date: "10/30/2018"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      beforeInit: "libs/macros.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+background-image: url(https://78.media.tumblr.com/1dde23d45e33724a341d303240d8b985/tumblr_p1t2hzWgtl1s16b9to1_540.gif)
+
+# What this talk *isn't* about
+
+
+---
+# What this talk *is* about
+
+1. Talk about common ethical issues you'll likely encounter
+
+--
+
+2. Discuss my tips for handling them
+
+--
+
+3. Provide resources and libraries for tackling them
+
+---
+# Who am I?
+
+- ![:scale 25%](http://www.rthree.com/upload/attachment/2015/04/201504211410135423.png)
+- ![:scale 25%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Booz_Allen_Hamilton_logo.svg/2000px-Booz_Allen_Hamilton_logo.svg.png)
+
+
+
+---
+# When Things Go Wrong
+
+![:scale 90%](imgs/gang_ai_headline.png)
+
+
+
+
