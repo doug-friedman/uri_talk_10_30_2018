@@ -1,6 +1,6 @@
 ---
 title: "be_ethical()"
-subtitle: "Some practical advice for recognizing and handling ethical issues in CS/DS"
+subtitle: "Some practical advice for recognizing and handling ethical issues in data science"
 author: "Doug Friedman"
 date: "10/30/2018"
 output:
@@ -96,7 +96,7 @@ You and/or your users **didn't think** about the potential ethical issues first.
 
 ![goog_bias_list](imgs/ml_fairness_bias_list.png)
 
-### Google [has a fantastic online course](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture) that teaches you  about a wide variety of human biases and how to recognize them in CS/DS.
+Google [has a fantastic online course](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture) that teaches you  about a wide variety of human biases and how to recognize them in a machine learning context.
 
 ---
 class: inverse, center, middle
@@ -173,3 +173,9 @@ class: inverse, center, middle
 # Some helpful resources
 
 ---
+# IBM AI Fairness 360
+
+![:scale 100%](imgs/ibm_fairness_360.png)
+
+An [open-source Python toolkit](http://aif360.mybluemix.net/) that contains about a dozen different metrics/algorithms to aid in bias detection for machine learning projects.
+
