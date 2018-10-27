@@ -45,7 +45,7 @@ background-image: url(https://78.media.tumblr.com/1dde23d45e33724a341d303240d8b9
 ---
 class: inverse, center, middle
 
-# Recognizing Ethical Issues
+# Recognizing ethical issues
 
 ---
 # An Illustrative Example
@@ -101,7 +101,7 @@ Google [has a fantastic online course](https://developers.google.com/machine-lea
 ---
 class: inverse, center, middle
 
-# Tips for Handling Ethical Issues
+# Tips for handling ethical issues
 
 ---
 # Don't work alone!
@@ -147,6 +147,8 @@ A little research can go a long way to avoiding a serious issue later on.
 .pull-right[
 Map out your problem and think about where things might go wrong or affect others.
 
+Pick metrics that will help you track/measure these potential issues.
+
 You can't expect to avoid ethical issues after you've already developed a solution.
 ]
 
@@ -159,7 +161,7 @@ Not every user has a PhD in Computer Science!
 
 Make it easy for them to understand when and how to apply your solution.
 
-Unintended ethical issues are still ethical ones.
+Unintended ethical issues can be more prevalent than intended ones.
 ]
 
 .pull-right[
@@ -179,3 +181,46 @@ class: inverse, center, middle
 
 An [open-source Python toolkit](http://aif360.mybluemix.net/) that contains about a dozen different metrics/algorithms to aid in bias detection for machine learning projects.
 
+
+---
+# Model Cards
+![:scale 100%](imgs/model_card1.png)
+
+An [extensible, proven format](https://arxiv.org/abs/1810.03993) for sharing model information with your users.
+
+---
+# Model Cards
+![:scale 100%](imgs/model_card2.png)
+
+It even has an ethical considerations section!
+
+
+---
+# Interpretable Machine Learning
+.pull-left[
+![:scale 80%](imgs/interp_ml_cover.jpg)
+]
+
+.pull-right[
+A [free textbook](https://christophm.github.io/interpretable-ml-book/) which provides step-by-step instructions on how to inspect and interpret all types of machine learning models.
+
+* Partial Dependence Plots
+* LIME (Locally Interpretable Model-Agnostic Explanations)
+* Shapley Values
+]
+
+---
+# More Resources
+- [Analyzing & Preventing Unconscious Bias in Machine Learning](https://www.infoq.com/presentations/unconscious-bias-machine-learning) by Rachel Thomas
+- [Machinebias.org](http://machinebias.org/)
+- [How To Stop Artificial Intelligence From Marginalizing Communities?](https://www.youtube.com/watch?v=PWCtoVt1CJM) by Timnit Gebru
+- [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+- [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=as_li_ss_tl?ie=UTF8&qid=1532024714&sr=8-1&keywords=weapons+of+math+destruction&linkCode=sl1&tag=theopesoudats-20&linkId=6d7cfcea0ff64900854da08d3512a94e) by Cathy O'Neil
+
+![:scale 15%](imgs/wmd_cover.jpg)
+
+
+---
+class: inverse, center, middle
+
+# Thanks!
