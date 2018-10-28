@@ -114,14 +114,14 @@ class: inverse, center, middle
 ![:scale 100%](imgs/plato.jpg)
 ]
 
---
-.pull-right[
-Find someone else to talk through your problem with 
-- a friend
-- a colleague
-- a professor 
 
-Ethical issues are complicated and a different perspective often shines a light on something you may have missed.
+.pull-right[
+* Find someone else to talk through your problem with 
+  - a friend
+  - a colleague
+  - a professor 
+
+* Ethical issues are complicated and a different perspective often shines a light on something you may have missed.
 ]
 
 ---
@@ -130,10 +130,13 @@ Ethical issues are complicated and a different perspective often shines a light 
 --
 
 .pull-left[
-The issues you'll be asked to tackle with data science aren't new ones. Spend some time learning about the field you are jumping into and where people went wrong beforehand.
+* The issues you'll be asked to tackle with data science aren't new ones. 
 
-A little research can go a long way to avoiding a serious issue later on.
+* Spend some time learning about the field you are jumping into and where people went wrong beforehand.
+
+* A little research can go a long way to avoiding a serious issue later on.
 ]
+
 
 .pull-right[
 ![:scale 100%](imgs/aristotle_reading.jpeg)
@@ -148,28 +151,27 @@ A little research can go a long way to avoiding a serious issue later on.
 ![:scale 100%](imgs/aristotle.jpg)
 ]
 .pull-right[
-Map out your problem and think about where things might go wrong or affect others.
+* Map out your problem and think about where things might go wrong or affect others.
 
-Pick metrics that will help you track/measure these potential issues.
+* Pick metrics that will help you track/measure these potential issues. _Hint: Default metrics often are **not** the best ones to track these._
 
-You can't expect to avoid ethical issues after you've already developed a solution.
+* You can't expect to avoid ethical issues after you've already developed a solution.
 ]
 
 ---
 # Be clear with your users!
 
 --
-.pull-left[
-Not every user has a PhD in Computer Science!
 
-Make it easy for them to understand when and how to apply your solution.
+* Not every user has a PhD in Computer Science!
 
-Unintended ethical issues can be more prevalent than intended ones.
-]
+* Make it easy for them to understand when and how to apply your solution.
 
-.pull-right[
-![:scale 100%](imgs/socrates_users.jpg)
-]
+* Unintended ethical issues can be more prevalent than intended ones.
+
+
+.center[![:scale 80%](imgs/socrates_users.jpg)]
+
 
 
 ---
@@ -180,7 +182,7 @@ class: inverse, center, middle
 ---
 # IBM AI Fairness 360
 
-![:scale 100%](imgs/ibm_fairness_360.png)
+.center[![:scale 100%](imgs/ibm_fairness_360.png)]
 
 An [open-source Python toolkit](http://aif360.mybluemix.net/) that contains about a dozen different metrics/algorithms to aid in bias detection for machine learning projects.
 
@@ -188,14 +190,12 @@ An [open-source Python toolkit](http://aif360.mybluemix.net/) that contains abou
 ---
 # Model Cards
 
-![:scale 100%](imgs/model_card_one.png)
+.center[![:scale 65%](imgs/model_card_one.png)]
 
 An [extensible, proven format](https://arxiv.org/abs/1810.03993) for sharing model information with your users.
 
----
-# Model Cards
 
-![:scale 100%](imgs/model_card_two.png)
+.center[![:scale 65%](imgs/model_card_two.png)]
 
 It even has an ethical considerations section!
 
@@ -212,6 +212,7 @@ A [free textbook](https://christophm.github.io/interpretable-ml-book/) which pro
 * Partial Dependence Plots
 * LIME (Locally Interpretable Model-Agnostic Explanations)
 * Shapley Values
+* ...and more!
 ]
 
 ---
@@ -222,7 +223,7 @@ A [free textbook](https://christophm.github.io/interpretable-ml-book/) which pro
 - [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=as_li_ss_tl?ie=UTF8&qid=1532024714&sr=8-1&keywords=weapons+of+math+destruction&linkCode=sl1&tag=theopesoudats-20&linkId=6d7cfcea0ff64900854da08d3512a94e) by Cathy O'Neil
 
-.center[![:scale 15%](imgs/wmd_cover.jpg)]
+.center[![:scale 25%](imgs/wmd_cover.jpg)]
 
 
 ---
