@@ -17,12 +17,12 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
-# What this talk *isn't* about
+# What this talk isn't about
 
 .center[![:scale 100%](imgs/chidi_plato.gif)]
 
 ---
-# What this talk *is* about
+# What this talk is about
 
 1. Talk about common ethical issues you'll likely encounter in data science
 
@@ -36,14 +36,14 @@ options(htmltools.dir.version = FALSE)
 
 ---
 # Who am I?
-* I worked at Booz Allen Hamilton for 5+ years working with various federal agencies on a variety of analytics problems including population modeling and the effects of climate change.
+I worked at Booz Allen Hamilton for 5+ years working with various federal agencies on a variety of analytics problems including population modeling and the effects of climate change.
 
 .center[
 ![:scale 30%](imgs/choro_map.png)
 ![:scale 30%](imgs/river_flood.jpg)
 ]
 
-* Currently, I've been leading Johnson & Johnson's data science team here in Rhode Island at the Providence Healthcare Technology Center for over a year.
+Currently, I've been leading Johnson & Johnson's data science team here in Rhode Island at the Providence Healthcare Technology Center for over a year.
 
 .center[![:scale 50%](imgs/jnj_logo_transparent.png)]
 
@@ -223,7 +223,7 @@ A [free textbook](https://christophm.github.io/interpretable-ml-book/) which pro
 ---
 # More Resources
 - [Analyzing & Preventing Unconscious Bias in Machine Learning](https://www.infoq.com/presentations/unconscious-bias-machine-learning) by Rachel Thomas
-- [Machinebias.org](http://machinebias.org/)
+- [MachineBias.org](http://machinebias.org/)
 - [How To Stop Artificial Intelligence From Marginalizing Communities?](https://www.youtube.com/watch?v=PWCtoVt1CJM) by Timnit Gebru
 - [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=as_li_ss_tl?ie=UTF8&qid=1532024714&sr=8-1&keywords=weapons+of+math+destruction&linkCode=sl1&tag=theopesoudats-20&linkId=6d7cfcea0ff64900854da08d3512a94e) by Cathy O'Neil
