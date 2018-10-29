@@ -36,11 +36,14 @@ options(htmltools.dir.version = FALSE)
 
 ---
 # Who am I?
-* Worked at Booz Allen Hamilton for 5+ years working with various federal agencies on a variety of analytics problems
+* I worked at Booz Allen Hamilton for 5+ years working with various federal agencies on a variety of analytics problems including population modeling and the effects of climate change.
 
-.center[![:scale 70%](imgs/bah_logo_transparent.png)]
+.center[
+![:scale 30%](imgs/choro_map.png)
+![:scale 30%](imgs/river_flood.jpg)
+]
 
-* Currently leading Johnson & Johnson's data science team here in Rhode Island at the Providence Healthcare Technology Center
+* Currently, I've been leading Johnson & Johnson's data science team here in Rhode Island at the Providence Healthcare Technology Center for over a year.
 
 .center[![:scale 50%](imgs/jnj_logo_transparent.png)]
 
