@@ -116,12 +116,14 @@ class: inverse, center, middle
 
 
 .pull-right[
-* Find someone else to talk through your problem with 
+* Find someone else to talk through your problem with...
   - a friend
   - a colleague
   - a professor 
 
 * Ethical issues are complicated and a different perspective often shines a light on something you may have missed.
+
+* Make your approach as transparent as possible so others can collaborate or review your work.
 ]
 
 ---
@@ -184,7 +186,7 @@ class: inverse, center, middle
 
 .center[![:scale 100%](imgs/ibm_fairness_360.png)]
 
-An [open-source Python toolkit](http://aif360.mybluemix.net/) that contains about a dozen different metrics/algorithms to aid in bias detection for machine learning projects.
+An [open-source Python toolkit](http://aif360.mybluemix.net/) that contains about a dozen different metrics/algorithms to aid in bias detection and avoidance for machine learning projects.
 
 
 ---
